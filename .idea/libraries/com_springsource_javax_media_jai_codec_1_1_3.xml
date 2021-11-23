@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.springsource.javax.media.jai.codec-1.1.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/monte-1.0.1/com.springsource.javax.media.jai.codec-1.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/monte-1.0.1/com.springsource.javax.media.jai.core-1.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/monte-1.0.1/jmf-2.1.1e.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/monte-1.0.1/monte-repack-1.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

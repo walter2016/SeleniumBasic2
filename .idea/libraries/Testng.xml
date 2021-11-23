@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Testng">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib/Testng" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/lib/Testng" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/lib/Testng" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/Testng" recursive="false" type="SOURCES" />
+  </library>
+</component>
